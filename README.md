@@ -18,7 +18,7 @@ Built with **Gemini API** and **AlaSQL**, it allows users to query datasets conv
 
 ### 1️⃣ Extract the ZIP file you downloaded  
 ### 2️⃣ Open the folder in your IDE or Terminal  
-cd Insight=IQ-main
+cd Insight-IQ-main
 
 ### 3️⃣ Create a .env file and add your Gemini API key  
 echo "GEMINI_API_KEY=your_api_key_here" > .env
