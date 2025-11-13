@@ -32,7 +32,10 @@ pnpm install
 ### 6️⃣ Add the required AlaSQL version  
 pnpm add alasql@4.9.0
 
-### 7️⃣ Start the development server  
+### 7️⃣ Build the client and the server
+pnpm build
+
+### 🟢 Start the development server  
 pnpm dev
 
 🌐 Once the server starts, open your browser at:  
